@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+}
